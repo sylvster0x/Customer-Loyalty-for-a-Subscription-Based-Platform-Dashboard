@@ -32,3 +32,9 @@ Actions such as personalized offerings, loyalty programs, or more effective remi
 
 Recommendations: It is crucial to understand the reasons behind subscription cancellations 
 after the initial months and develop strategies to retain customers, particularly during critical periods.
+
+
+The only-view version of this dashboard you can find under link below:
+
+https://1drv.ms/x/c/975a09036720cd9c/Eade8cRK1aBNgMYXhxVYL84BPjUCMI92SWwyOgszTR4R6g?e=cPiYi3
+
